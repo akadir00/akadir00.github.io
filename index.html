@@ -1,9 +1,9 @@
 # Abdulkadir Yılmaz
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Abdulkadir%20Yılmaz&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Mobile%20Developer&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Abdulkadir%20Yılmaz&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20Student%20%7C%20AI%20&%20Mobile%20Developer&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Computer+Engineering+@+Biruni+University;AI-Powered+Mobile+Apps+Developer;Entrepreneurship+Community+President" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Computer+Engineering+@+Biruni+University;AI-Powered+Mobile+Apps+Developer;Entrepreneurship+Community+President" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,13 +34,16 @@ Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Java, 
 
 ---
 
-## :wrench: Çalışma Alanları & Tech Stack
+## :wrench: Çalışma Alanları
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial_Intelligence-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile_App_Dev-6366F1?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Bioinformatics-F7931E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database_Management-5C3EE8?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+## :desktop_computer: Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -54,11 +57,9 @@ Biruni Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Java, 
 ## :bar_chart: GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akadir00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akadir00&theme=tokyonight&hide_border=true&background=0d1117" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akadir00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akadir00&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
 </p>
-
----
 
 <p align="center">
   <em>Yenilikçi ve yüksek etkili projelerde değer üretmeyi hedefliyorum.</em>
